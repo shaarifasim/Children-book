@@ -1,0 +1,381 @@
+*{
+    font-family:cursive;
+    background-color: rgb(252, 205, 212);
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    font-family:cursive;
+    color: black;
+    font-style: italic;
+    padding: 0;
+    margin: 0;
+    margin-top: 1%;
+    text-align: center;
+    margin-bottom: 3%;
+
+
+}
+h2{
+    margin-top: 2%;
+    color: black;
+    font-family:cursive;
+    font-size: xx-large;
+}
+.container{
+    border: 40px solid rgb(114, 114, 245);
+    
+}
+img{
+    /* border-radius: 4px solid white ; */
+    margin: 2%;
+    padding: 2%;
+}
+
+p{
+    
+    margin: auto;
+    padding: auto;
+    /* padding-inline: 10%; */
+    /* margin-top: 3%; */
+    /* padding: 2%; */
+    text-align: center;
+
+}
+#form{
+    /* background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20200729/pngtree-colorful-flow-background-with-fluid-form-image_372440.jpg'); */
+    border: 7px solid rgb(42 42 145);
+    height: 15px;    
+    text-align: center;
+    white-space: pre-wrap;
+    /* margin: 20%; */
+    /* margin-bottom: 54%; */
+}
+.main-image{
+    max-width: 29%;
+    /* position: relative; */
+    margin-left: 35.5%;
+    margin-top: 2%;
+ 
+}
+/* table{
+    width: 50%;
+    margin: auto;
+}
+td{
+    background-color: white;
+    box-shadow: inset;
+} */
+a{
+    font-family: cursive;
+    font-style: italic;
+    color: darkblue;
+    border-radius: 5px;
+    padding: 4px;
+    border: 2px solid blue;
+    text-decoration: auto;
+    background-color: rgb(133, 207, 231)
+}
+#A{
+        border: 7px solid rgb(42 42 145);
+    /* border-radius: 3%; */
+    text-align: center;
+}
+.A{
+    width: 60%;
+    max-width: 29%;
+    
+
+}
+#B{
+    border: 7px solid rgb(42 42 145);
+    /* border-radius: %; */
+    text-align: center;
+}
+.B{
+    /* margin-top: 30px; */
+    width: 60%;
+    max-width: 29%;
+
+}
+#C{
+    border: 7px solid rgb(42 42 145);
+    /* border-radius: 5%; */
+    text-align: center;
+}
+.C{
+    width: 60%;
+    max-width: 29%;
+
+}
+#D{
+    border: 7px solid rgb(42 42 145);
+    /* border-radius: 5%; */
+    text-align: center;
+
+}
+.D{
+    width: 60%;
+    max-width: 29%;
+
+}
+#E{
+    border: 7px solid rgb(42 42 145);
+    /* border-radius: 5%; */
+    text-align: center;
+
+}
+.E{
+    width: 60%;
+    max-width: 29%;
+    
+}
+#F{
+    border: 7px solid rgb(42 42 145);
+    /* border-radius: 5%; */
+    text-align: center;
+
+}
+.F{
+    width: 60%;
+    max-width: 29%;
+
+}
+#G{
+
+    border: 7px solid rgb(42 42 145);
+    /* border-radius: 5%; */
+    text-align: center;
+}
+.G{
+    width: 60%;
+    max-width: 29%;
+
+}
+#H{
+    border: 7px solid rgb(42 42 145);
+    /* border-radius: 5%; */
+    text-align: center;
+
+}
+.H{
+    width: 60%;
+    max-width: 29%;
+
+}
+#I{
+    border: 7px solid rgb(42 42 145);
+    /* border-radius: 5%; */
+    text-align: center;
+
+}
+.I{
+    width: 60%;
+    max-width: 29%;
+
+}
+#J{
+    border: 7px solid rgb(42 42 145);
+    /* border-radius: 5%; */
+    text-align: center;
+
+}
+.J{
+    width: 60%;
+    max-width: 29%;
+
+}
+#K{
+    border: 7px solid rgb(42 42 145);
+    /* border-radius: 5%; */
+    text-align: center;
+
+}
+.K{
+    width: 60%;
+    max-width: 29%;
+
+}
+#L{
+    border: 7px solid rgb(42 42 145);
+    /* border-radius: 5%; */
+    text-align: center;
+
+}
+.L{
+    width: 60%;
+    max-width: 29%;
+
+}
+#M{
+    border: 7px solid rgb(42 42 145);
+    /* border-radius: 5%; */
+    text-align: center;
+
+
+}
+.M{
+    width: 60%;
+    max-width: 29%;
+
+}
+#N{
+    border: 7px solid rgb(42 42 145);
+    /* border-radius: 5%; */
+    text-align: center;
+
+
+}
+.N{
+    width: 60%;
+    max-width: 29%;
+
+}
+#O{
+    border: 7px solid rgb(42 42 145);
+
+    /* border-radius: 5%; */
+    text-align: center;
+
+
+}
+.O{
+    width: 60%;
+    max-width: 29%;
+
+}
+#P{
+    border: 7px solid rgb(42 42 145);
+    /* border-radius: 5%; */
+    text-align: center;
+
+
+}
+.P{
+    width: 60%;
+    max-width: 29%;
+
+}
+#Q{
+    border: 7px solid rgb(42 42 145);
+    /* border-radius: 5%; */
+    text-align: center;
+
+
+}
+.Q{
+    width: 60%;
+    max-width: 29%;
+
+}
+#R{
+    border: 7px solid rgb(42 42 145);
+    /* border-radius: 5%; */
+    text-align: center;
+
+
+}
+.R{
+    width: 60%;
+    max-width: 29%;
+
+}
+#S{
+    border: 7px solid rgb(42 42 145);
+    /* border-radius: 5%; */
+    text-align: center;
+
+
+}
+.S{
+    width: 60%;
+    max-width: 29%;
+
+}
+#T{
+    border: 7px solid rgb(42 42 145);
+    /* border-radius: 5%; */
+    text-align: center;
+
+
+}
+.T{
+    width: 60%;
+    max-width: 29%;
+
+}
+#U{
+    border: 7px solid rgb(42 42 145);
+    /* border-radius: 5%; */
+    text-align: center;
+
+
+}
+.U{
+    width: 60%;
+    max-width: 29%;
+
+}
+#V{
+    border: 7px solid rgb(42 42 145);
+    /* border-radius: 5%; */
+    text-align: center;
+
+
+}
+.V{
+    width: 60%;
+    max-width: 29%;
+
+}
+#W{
+    border: 7px solid rgb(42 42 145);
+    /* border-radius: 5%; */
+    text-align: center;
+
+
+}
+.W{
+    width: 60%;
+    max-width: 29%;
+
+}
+#X{
+    border: 7px solid rgb(42 42 145);
+    /* border-radius: 5%; */
+    text-align: center;
+
+
+}
+
+.X{
+    width: 60%;
+    max-width: 29%;
+
+}
+#Y{
+    border: 7px solid rgb(42 42 145);
+    /* border-radius: 5%; */
+    text-align: center;
+
+
+}
+.Y{
+    width: 60%;
+    max-width: 29%;
+
+}
+#Z{
+    border: 7px solid rgb(42 42 145);
+    /* border-radius: 5%; */
+    text-align: center;
+
+
+}
+.Z{
+    width: 60%;
+    max-width: 29%;
+
+}
+
